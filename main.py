@@ -78,4 +78,4 @@ async def nuke(ctx):
     except:
         print("something went wrong (nuke)")
 
-CLIENT.run("Nzg2MzAxNTgzMDc1NTczNzkx.X9Eaag.RuP_5uiwKWpTz1SwSp2WJLkEfy0")
+CLIENT.run("your-token")
