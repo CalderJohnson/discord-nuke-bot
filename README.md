@@ -8,4 +8,4 @@ $channel x: creates x channels
 $raid: spam pings (this can be stacked)
 $nuke: all of the above
 
-NOTE: Use on a VPN or you may be IP banned.
+NOTES: Use on a VPN or you may be IP banned. Also, remember to enable special intents when you create your bots client in the developer portal.
