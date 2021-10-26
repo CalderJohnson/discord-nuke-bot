@@ -1,4 +1,4 @@
-"""nuke bot"""
+"""nuke bot, Credits: Star, FF"""
 import discord
 from discord.ext import commands
 
