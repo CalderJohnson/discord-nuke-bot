@@ -1,4 +1,5 @@
-"""nuke bot, Credits: Star, FF"""
+"""nuke bot"""
+#credits, me (Star) and Error404 (FF).
 import discord
 from discord.ext import commands
 
