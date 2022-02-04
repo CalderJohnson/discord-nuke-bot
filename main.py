@@ -5,8 +5,8 @@
 
 token = "your-token"
 prefix = "!"
-spam_messages = ["@everyone omegga on top", "@everyone get nuked by falcon338"]
-names = ["nuked", "omeggaleagueontop"]
+spam_messages = ["@everyone get nuked", "@everyone nuked"]
+names = ["nuked", "get-nuked"]
 
 #imports
 
