@@ -1,5 +1,5 @@
 """nuke bot"""
-#CREDIT (do not remove) Star#7609
+#CREDIT (do not remove) Star#1895
 
 #config
 
