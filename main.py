@@ -78,7 +78,7 @@ async def cmds(ctx):
     author = ctx.author
     cmds = discord.Embed(
         title = "Commands", 
-        description = """
+        description = f"""
     **__COMMANDS__**
 
     {prefix}cmds
