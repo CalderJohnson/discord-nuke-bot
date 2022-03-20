@@ -105,7 +105,7 @@ async def cmds(ctx):
     {prefix}a
     Gives the user Administrator Premissions.
 
-    Made by Stuxy and Vapey :D
+    Made by Star and FF
     """)
     await author.send(embed = cmds)
 
