@@ -2,13 +2,18 @@
 
 Nukes a discord server
 
+**Commands:**
+
 !clear: deletes all channels and roles
+
 !massban: generates a user list then attempts to ban each one
-!channel x: creates x channels
+
+!channel x: creates x channels and uses webhooks to spam ping
+
 !alert: spam pings (this can be stacked)
+
 !nuke: all of the above
 
-Also a cacophony of webhooks spams is included :)
 
 I do not condone this use of this bot to damage peoples servers! Educational purposes only.
 
