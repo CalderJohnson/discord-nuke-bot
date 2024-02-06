@@ -1,6 +1,6 @@
 # nuke-bot
 
-Nukes a discord server
+Example creation of how a destructive bot could be used to wrongfully "nuke" or destroy a discord server
 
 **Commands:**
 
