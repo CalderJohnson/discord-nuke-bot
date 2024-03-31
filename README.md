@@ -1,6 +1,6 @@
 # nuke-bot
 
-Example creation of how a destructive bot could be used to wrongfully "nuke" or destroy a discord server
+Penetration testing project, example creation of how a destructive bot could be used to wrongfully "nuke" or destroy a discord server in an effort to promote security on the platform.
 
 **Commands:**
 
@@ -15,6 +15,6 @@ Example creation of how a destructive bot could be used to wrongfully "nuke" or 
 !nuke: all of the above
 
 
-I do not condone this use of this bot to damage peoples servers! Educational purposes only.
+I do not condone this use of this bot to damage peoples servers! Educational and pentesting purposes only.
 
 NOTES: Use on a VPN or you may be IP banned. Also, remember to enable special intents when you create your bots client in the developer portal.
